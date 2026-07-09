@@ -1,0 +1,6 @@
+*.o
+server
+client
+core
+.DS_Store
+*.zip
